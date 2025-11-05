@@ -51,13 +51,4 @@ By mapping out the store layout and computing the **shortest path** through all 
 
 ---
 
-## 🚀 Installation & Setup
-
-To run the app locally, follow these steps:
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/store-path-optimization.git
-   cd store-path-optimization
-
 
